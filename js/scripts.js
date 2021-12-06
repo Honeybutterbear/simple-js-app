@@ -78,4 +78,13 @@ let myCalculatorNumbers = [
   [7, 8, 9]
 ];
 
+//*WILL CLEAR THE ABOVE LATER//
+
+//*For task 1.2* Created my own array rather than pokedex//
+let games=
+[{name: "true colors", type: "roleplay"},
+{name: "before the storm", type:[ "roleplay","storybased"]}
+];
+
+
 /*welcome*/
