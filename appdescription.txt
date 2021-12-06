@@ -1,0 +1,32 @@
+
+
+
+App Name:
+GameStation
+
+Concept:
+An app where you can identify songs from games
+Process: by typing in a few lyrics, searching for the song directly, typing in
+the part or location of the game you heard the song, and maybe even
+playing a snippit of the song if i can figure it out
+
+Prototype:
+Life Is strange 3
+
+The Why: It can be hard to ID songs you like from a game, there are fourms
+in reddit just for this. Personally, i love listening to music from games
+
+Load items from somewhere:
+A database of stored info related to each song i.e.
+'scenic moment on haven springs bridge, life is strange 3'
+
+display a list of all items:
+Can select a game, see songs that were found
+search for items: can search by part of game, lyrics, sound of song, genre
+display a detailed view for an item: will show where you can hear the song
+in game, whats happening in the scene, the artist info, where you can listen
+
+Future Goals for app:
+-- Live radio station playing songs from games i.e. 'music to study to'
+-- logo design
+-- Ask for video game suggestions online
