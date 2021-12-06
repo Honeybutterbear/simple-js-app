@@ -27,4 +27,55 @@ alert('hello world');
 
 /*favorite food*/
 let myFavoriteFood = 'sushi';
+myFavoriteFood = 10;
 document.write(myFavoriteFood);
+
+/*1.2 practice*/
+let name = 'Lauren';
+let age = 22;
+let message = `Hello!
+This is a longer message here.
+My name is: ${name},
+and I'm ${age}.`;
+document.write(message);
+
+/*objects. Note:
+Everything between the curly braces makes up the object.*/
+let car = {
+  color: 'red',
+  mileage: 10
+};
+
+let annesAge = 27;
+let anne = {
+  name: 'Anne',
+  age: annesAge,
+  child: {
+    name: 'Joe',
+    age: 2
+  }
+};
+
+/*Rule: whenever you open parentheses, curly braces, or square brackets,
+ and have a line break before you write the closing parentheses/brackets,
+you indent.*/
+
+
+/*arrays*/
+// array of strings
+let foodArray = ['sushi', 'tacos', 'sweet potato casserole'];
+
+// array of objects
+let carArray = [
+  { type: 'Bus', wheels: 4, color: 'blue'},
+  { type: 'Sport', wheels: 4, color: 'red'}
+];
+
+// array of arrays
+let myCalculatorNumbers = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+];
+
+/*welcome*/
