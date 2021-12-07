@@ -94,9 +94,13 @@ https://public-apis.xyz/steam-2376//
 let pokemon=
 [{name: "Espeon", type: "Psychic"},
 {name: "Umbreon", type: ["Dark", "Catlike"]}
-]
+];
 
 
+
+//1.3 practice//
+If song is equal to *song lyric* then the song is *song name*
+If song is not equal to *song lyric* then the song is *
 
 
 /*welcome*/
