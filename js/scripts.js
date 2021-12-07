@@ -83,7 +83,7 @@ let myCalculatorNumbers = [
 //*For task 1.2* Created my own array rather than pokedex//
 let games=
 [{name: "true colors", type: "roleplay"},
-{name: "before the storm", type:[ "roleplay","storybased"]}
+  {name: "before the storm", type:[ "roleplay","storybased"]}
 ];
 //*API LINKS for personal project:
 https://public-apis.xyz/spotify-7947
