@@ -85,7 +85,9 @@ let games=
 [{name: "true colors", type: "roleplay"},
 {name: "before the storm", type:[ "roleplay","storybased"]}
 ];
-//*API LINK for personal project: https://public-apis.xyz/spotify-7947//
+//*API LINKS for personal project:
+https://public-apis.xyz/spotify-7947
+https://public-apis.xyz/steam-2376//
 
 //*Adding in Array for Pokedex*//
 
