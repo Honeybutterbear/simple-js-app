@@ -94,8 +94,8 @@ you indent.*/
 
 
 let pokemon=
-[{name: 'Espeon', height: '2\'11"', type: 'Psychic',},
-{name: 'Umbreon', height: '3\' 03"', type: ['Dark', 'normal']}
+[{name: 'Espeon', height: '2\'11"', type: 'Psychic', size: '58.4 lbs'},
+{name: 'Umbreon', height: '3\' 03"', type: ['Dark', 'normal'], size: '59.5 lbs'}
 ];
 //adding a for loop//
 for (let i = 0; i < pokemon.length;
@@ -104,9 +104,11 @@ i++) {
   + " Height: " + pokemon[i].height + "<br />");
 }
 
-
-
+if (pokemon[i].size)
 console.log(pokemon);
+
+
+
 
 
 
