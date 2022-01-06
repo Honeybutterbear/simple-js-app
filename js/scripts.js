@@ -104,8 +104,15 @@ i++) {
   + " Height: " + pokemon[i].height + "<br />");
 }
 
-if (pokemon[i].size)
-console.log(pokemon);
+let result;
+if (pokemon[i].size > 50) {
+  console.log( 'Wow, thats a big pokemon!');
+} else {
+  console.log('thats a normal pokemon.');
+}
+
+
+
 
 
 
