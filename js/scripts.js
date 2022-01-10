@@ -129,4 +129,6 @@ if (pokemon[i].size > 50) {
 
 
 
+
+
 /*welcome*/
